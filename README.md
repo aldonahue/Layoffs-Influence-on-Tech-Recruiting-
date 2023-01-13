@@ -13,17 +13,13 @@ I examined a variety of factors pertaining to recent layoffs (2020-present). Of 
 
 ### Data Sources
 ***
-* [Box Office Mojo](https://www.boxofficemojo.com/)
-* [IMDB](https://www.imdb.com/)
-* [Rotten Tomatoes](https://www.rottentomatoes.com/)
-* [TheMovieDB](https://www.themoviedb.org/)
-* [The Numbers](https://www.the-numbers.com/)
+* [Kaggle](https://www.kaggle.com/datasets/swaptr/layoffs-2022)
+* [Layoff.fyi Tracker](https://layoffs.fyi/)
 
 ### Presentation
 ***
 https://github.com/cLineman/CapStoneProject/blob/main/Capstone_Presentation.pdf
 
-![(Not) Our Process](https://imgs.xkcd.com/comics/assigning_numbers.png)
 
 ### Data Interpretation and Analysis
 ***
@@ -39,8 +35,6 @@ From our analysis, we suggest that Computing Vision...
 - Choose a director with a history of well-rated movies to maximize profit and profit ratio.  
 - Release new movies during the summer as that season tends to yield higher gross profits than other seasons.
 
-![Making Money](https://media3.giphy.com/media/LCdPNT81vlv3y/giphy.gif?cid=790b7611dcce7811c4839d2c698a8a11eca16053e8e2c767&rid=giphy.gif&ct=g)
-
 #### Acknowledgements
 ***
 https://github.com/python/cpython/blob/3.10/Lib/warnings.py  
@@ -51,12 +45,13 @@ https://matplotlib.org/
 https://numpy.org/  
 https://pandas.pydata.org/  
 https://plotly.com/python/  
+https://plotly.com/python/  
+https://plotly.com/python/  
+https://plotly.com/python/  
 https://pypi.org/project/tabulate/  
 https://scipy.org/  
 https://seaborn.pydata.org/  
 https://www.sqlite.org/index.html  
 https://www.statsmodels.org/stable/index.html
-
-[Panda](https://www.publicdomainpictures.net/en/view-image.php?image=45712&picture=panda-bear) - Ronald Carson
 
 [Python 3.9.12](https://www.python.org/) Copyright ©2001-2022. [Python Software Foundation](https://www.python.org/psf-landing/)
