@@ -2,13 +2,14 @@
 ***
 Capstone project for the AI academy 
 
-All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/presentation.pdf) and the [Juptyer notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Technical%20recruiting%20.ipynb), are in the main repository.  data files are located in [./zippedData/](https://github.com/cLineman/CapStoneProject/tree/main/zippedData).
+All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/presentation.pdf), [Final Juptyer notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Layoffs%20Influence%20on%20Tech%20Recruiting%20Final%20Notebook.ipynb), [Initial cleaning & exploratory notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Initial%20Exploratory%20and%20Cleaning.ipynb), [Final/official cleaning notebok](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Official%20clean.ipynb), [Data](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/layoffs.csv), and  [capstone proposal](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/AI%20academy%20capstone%20Proposal.pdf) are in the main repository.
+
 
 ## Project Description
 ***
-For this project, Deloitte was contracted by the fictitious company Computing Vision to help them launch their new movie studio. Our business task was to research recent trends in movie performance and to develop recommendations for the head of the studio on what kinds of movies to make.
+For this project, Deloitte was contracted by a tech recruiting company (fictitious client) to help them gain the ability to project layoffs trends and use it to their advantage. Our business task was to research recent trends in Tech industry layoffs and develop and integrate a supervised machine learning model in to their business strategy.
 
-Our team examined a variety of factors pertaining to recent movie releases (2010-present). Of particular interest were the effects of the budget, genre, director, and release date on gross profit and profit ratio.
+I examined a variety of factors pertaining to recent layoffs (2020-present). Of particular interest were the Percentage laid off over time and across subindsutries with in the United Sates..
 
 ### Data Sources
 ***
