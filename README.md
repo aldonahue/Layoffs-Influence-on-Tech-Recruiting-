@@ -2,7 +2,7 @@
 ***
 Capstone project for the AI academy 
 
-All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/presentation.pdf) and the [Juptyer notebook](https://github.com/cLineman/CapStoneProject/blob/main/final_notebook.ipynb), are in the main repository. Personal notebooks are located in [./personal_notebooks/](https://github.com/cLineman/CapStoneProject/tree/main/personal_notebooks) and data files are located in [./zippedData/](https://github.com/cLineman/CapStoneProject/tree/main/zippedData).
+All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/presentation.pdf) and the [Juptyer notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Technical%20recruiting%20.ipynb), are in the main repository.  data files are located in [./zippedData/](https://github.com/cLineman/CapStoneProject/tree/main/zippedData).
 
 ## Project Description
 ***
