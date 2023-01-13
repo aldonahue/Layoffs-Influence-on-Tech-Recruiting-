@@ -2,7 +2,7 @@
 ***
 Capstone project for the AI academy 
 
-All final products, including the [presentation](https://github.com/cLineman/CapStoneProject/blob/main/presentation.pdf), [Final Juptyer notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Layoffs%20Influence%20on%20Tech%20Recruiting%20Final%20Notebook.ipynb), [Initial cleaning & exploratory notebook](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Initial%20Exploratory%20and%20Cleaning.ipynb), [Final/official cleaning notebok](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/Official%20clean.ipynb), [Data](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/layoffs.csv), and  [capstone proposal](https://github.com/aldonahue/Apprenticeship-Capstone/blob/main/AI%20academy%20capstone%20Proposal.pdf) are in the main repository.
+All final products, including the [presentation](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/Future%20of%20Tech%20Recruiting.pdf), [Final Juptyer notebook](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/Layoffs%20Influence%20on%20Tech%20Recruiting%20Final%20Notebook.ipynb), [Initial cleaning & exploratory notebook](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/Initial%20Exploratory%20and%20Cleaning.ipynb), [official cleaning notebok](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/Official%20clean.ipynb), [Data](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/layoffs.csv), and  [capstone proposal](https://github.com/aldonahue/Layoffs-Influence-on-Tech-Recruiting-/blob/main/AI%20academy%20capstone%20Proposal.pdf) are in the main repository.
 
 
 ## Project Description
@@ -21,19 +21,15 @@ I examined a variety of factors pertaining to recent layoffs (2020-present). Of 
 https://github.com/cLineman/CapStoneProject/blob/main/Capstone_Presentation.pdf
 
 
-### Data Interpretation and Analysis
+### Data Interpretation and Regression Modeling
 ***
-Our team performed analyses of movie budget (high: >$2.12mil, low:<$2.12mil), genre, historic director performance, and release season on profits. After importing and cleaning the data, we engineered several convenience features, including profit ratio. These were used to generate visualizations and perform statistical tests on the factors of interest. These informed our business recommendations for the head of Computing Vision's new movie studio.
+I build multiple regression models in order to accurately predict the trend of future layoffs across the tech industry with in the United States. After importing and cleaning the data I engineerred several featurs for convience inlcuding date calulations, Location IDs, Sub industry IDs, and the creation of dummy variables. These along with several other data elements within data set were used to train, split and test the data set and were ran through our models as well. These ultimately informed our business recomendations for the client regarding a supervised machine learning model integrations.
 
 ### Findings and Recommendations
 ***
-Our investigation of the available data has revealed several significant factors to consider in Computing Vision's creation of new movies. First, lower budget movies have significantly higher profit ratios. Second, the trio of mystery, horror, and thriller genres have significantly greater mean profit ratios than other genres. Next, prior director reviews and performance predict movie profit and profit ratio. And finally, summer releases result in higher gross profits than other seasonal releases.
+Through the overall investigation of the availble data it is clear that inegrating a linear regression model is the best choice for the client to integrate into their strategy. The linear regression model was the most accurate and consistent out of all three models that I ran. As well I was able to further validate its accuracy through calculating the R-Squared and RSME. This model ulitmately ran with a score of .795, R-squared of .795, RSME of .012. 
 
-From our analysis, we suggest that Computing Vision...
-- Produce low budget films to maximize the return on investment.  
-- Make mystery, horror, and thriller films, as they are all budget friendly and produce massive profit ratios. 
-- Choose a director with a history of well-rated movies to maximize profit and profit ratio.  
-- Release new movies during the summer as that season tends to yield higher gross profits than other seasons.
+Moving forwad with this model I recomend the client periodically retrain the model with new and more current data to avoid model drift/rot. 
 
 #### Acknowledgements
 ***
